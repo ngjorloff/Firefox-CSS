@@ -1,6 +1,7 @@
 @namespace url('http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul');
 
-/* HIDE THE SPACE BEFORE TABS */
+/* HIDE THE SPACE BEFORE TABS, source https://www.reddit.com/user/It_Was_The_Other_Guy/ */
+
 .titlebar-spacer[type="pre-tabs"]{ display:none !important }
 
 /* AUTO HIDE THE BOOKMARKS BAR */
