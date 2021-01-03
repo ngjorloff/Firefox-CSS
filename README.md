@@ -3,7 +3,7 @@
 ![](./firefox.png)
 
 * Removes the space before tabs for a clean look for non maximized windows.
-* Automatically hide the bookmark bar when not in focus.
+* Automatically hide the bookmarks bar when it's not in focus.
 
 ## How to install
 
